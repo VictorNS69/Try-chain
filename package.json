@@ -8,7 +8,7 @@
      "UPM"
 	
    ],
-   "author": "IECISA",
+   "author": "INETUM",
    "license": "MIT",
    "dependencies": {
      "solc": "0.4.25",
