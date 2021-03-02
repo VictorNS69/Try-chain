@@ -4,11 +4,10 @@
   "description": "Solidity 'Hello World' example",
   "keywords": [
     "try-chain",
-    "INETUM",
     "UPM",
     "Try IT!"
   ],
-  "author": "INETUM",
+  "author": "vnievess@gmail.com",
   "license": "MIT",
   "dependencies": {
     "babel-register": "6.26.0",
