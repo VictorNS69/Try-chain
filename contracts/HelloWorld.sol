@@ -21,14 +21,3 @@ contract HelloWorld {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
