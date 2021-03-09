@@ -43,11 +43,12 @@ module.exports = {
     // options below to some value.
     //
     quorum: {
-      host: "10.50.0.2",      // Localhost (default: none)
+      host: "127.0.0.1",      // Localhost (default: none)
       port: 22000,            // Standard Ethereum port (default: none)
       network_id: "*",        // Any network (default: none)
-      gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
-      gasPrice: 20000000000,
+      type:"quorum",
+      gasPrice: 0
+      //from: ""
     },
     development: {           // Aka Ganache
       host: "127.0.0.1",     // Localhost (default: none)
